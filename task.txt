@@ -1,3 +1,0 @@
-WWW -WORLD WIDE WEB
-BROWSER - application for accessing websites.
-Addressbar -address bar is the element that shows the current URL. 
